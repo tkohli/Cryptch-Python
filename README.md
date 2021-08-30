@@ -15,3 +15,16 @@ WAP use python cli add 2 numbers <br>
 Install VSCode and run 
 ### Syllabus
 Datatypes,Operators, I/O, Control stmt, Arrays, Stings,Functions, List and tuples, Dict, OOPS, Exception, DSA, Data science
+
+
+<br><br><br>
+#### Day 1 - Datatypes in python
+#WAP to add 2 numbers<br>
+Comments and Docstings in python<br>
+Variable and memory alloction in python<br>
+DataTypes in Python 
+    None <br>
+    Numeric - int,float,Complex,
+    Bool
+    Sequence - Str,list,tuple,range,set.
+    
