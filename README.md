@@ -24,7 +24,7 @@ Comments and Docstings in python<br>
 Variable and memory alloction in python<br>
 DataTypes in Python 
     None <br>
-    Numeric - int,float,Complex,
-    Bool
+    Numeric - int,float,Complex,<br>
+    Bool<br>
     Sequence - Str,list,tuple,range,set.
     
