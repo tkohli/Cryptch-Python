@@ -28,3 +28,4 @@ DataTypes in Python
     Bool<br>
     Sequence - Str,list,tuple,range,set.
     
+#### Day 2 - Introduction to Programming
