@@ -29,3 +29,4 @@ DataTypes in Python
     Sequence - Str,list,tuple,range,set.
     
 #### Day 2 - Introduction to Programming
+Programming basics and pdf of ipynb 
